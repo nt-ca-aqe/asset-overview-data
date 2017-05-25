@@ -1,0 +1,13 @@
+{
+  "name": "ResultRepository",
+  "organization": "testIT-ResultRepository",
+  "repository": "resultrepository-core",
+  "branches": [
+    "master"
+  ],
+  "services": [
+    "travis-ci",
+    "bettercode"
+  ],
+  "artifacts": []
+}
