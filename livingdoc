@@ -1,0 +1,13 @@
+{
+  "name": "WebTester",
+  "organization": "testIT-Livingdoc",
+  "repository": "livingdoc2",
+  "branches": [
+    "master"
+  ],
+  "services": [
+    "travis-ci",
+    "bettercode"
+  ],
+  "artifacts": []
+}
