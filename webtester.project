@@ -1,0 +1,43 @@
+{
+  "name": "WebTester",
+  "organization": "testIT-WebTester",
+  "repository": "webtester2-core",
+  "documentation": "https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=info.novatec.testit&a=webtester-documentation&v=LATEST&e=html",
+  "branches": [
+    "master",
+    "releases/2.2.x",
+    "releases/2.1.x",
+    "releases/2.0.x"
+  ],
+  "services": [
+    "travis-ci",
+    "codecov",
+    "bettercode"
+  ],
+  "artifacts": [
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-core"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-support-assertj3"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-support-hamcrest"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-support-junit4"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-support-junit5"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "webtester-support-spring4"
+    }
+  ]
+}

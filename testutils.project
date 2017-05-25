@@ -1,0 +1,32 @@
+{
+  "name": "TestUtils",
+  "organization": "nt-ca-aqe",
+  "repository": "testit-testutils",
+  "documentation": null,
+  "branches": [
+    "master"
+  ],
+  "services": [
+    "travis-ci",
+    "codecov",
+    "bettercode"
+  ],
+  "artifacts": [
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "testutils-logrecorder"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "testutils-logrecorder-logback"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "testutils-logsuppressor-logback"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "testutils-mockito"
+    }
+  ]
+}
