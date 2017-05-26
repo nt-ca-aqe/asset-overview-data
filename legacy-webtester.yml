@@ -1,0 +1,18 @@
+{
+  "name": "Legacy WebTester (v1)",
+  "organization": "testIT-WebTester",
+  "repository": "webtester-core",
+  "documentation": "https://github.com/testIT-WebTester/webtester-core/blob/master/documentation/README.md",
+  "branches": [
+    "master",
+    "releases/1.2.x",
+    "releases/1.1.x",
+    "releases/1.0.x"
+  ],
+  "services": [
+    "travis-ci",
+    "codecov",
+    "bettercode"
+  ],
+  "artifacts": []
+}
