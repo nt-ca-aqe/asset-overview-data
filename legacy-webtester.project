@@ -10,7 +10,7 @@
     "releases/1.0.x"
   ],
   "services": [
-    "travis-ci",
+    "travis",
     "codecov",
     "bettercode"
   ],
