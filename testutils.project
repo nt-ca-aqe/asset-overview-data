@@ -7,7 +7,7 @@
     "master"
   ],
   "services": [
-    "travis-ci",
+    "travis",
     "codecov",
     "bettercode"
   ],
