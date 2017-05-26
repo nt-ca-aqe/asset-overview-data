@@ -6,7 +6,7 @@
     "master"
   ],
   "services": [
-    "travis-ci",
+    "travis",
     "bettercode"
   ],
   "artifacts": []
