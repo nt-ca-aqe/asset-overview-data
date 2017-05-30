@@ -1,5 +1,5 @@
 {
-  "name": "Legacy LivingDoc (v1)",
+  "name": "LivingDoc",
   "organization": "testIT-LivingDoc",
   "repository": "livingdoc-core",
   "branches": [
@@ -10,9 +10,7 @@
     "releases/1.0.x"
   ],
   "services": [
-    "travis",
-    "codecov",
-    "bettercode"
+    "travis"
   ],
   "artifacts": []
 }
