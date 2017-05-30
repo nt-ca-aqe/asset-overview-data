@@ -8,9 +8,7 @@
     "releases/1.2.x"
   ],
   "services": [
-    "travis",
-    "codecov",
-    "bettercode"
+    "travis"
   ],
   "artifacts": []
 }
