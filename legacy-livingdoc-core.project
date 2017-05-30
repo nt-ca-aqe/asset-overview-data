@@ -12,5 +12,26 @@
   "services": [
     "travis"
   ],
-  "artifacts": []
+  "artifacts": [
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "livingdoc-cli"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "livingdoc-client"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "livingdoc-core"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "livingdoc-maven"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "livingdoc-remote-agent"
+    }
+  ]
 }
