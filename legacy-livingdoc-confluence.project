@@ -1,5 +1,5 @@
 {
-  "name": "Legacy LivingDoc (v1)",
+  "name": "Legacy LivingDoc - Confluence Plugin",
   "organization": "testIT-LivingDoc",
   "repository": "livingdoc-confluence",
   "branches": [
@@ -10,9 +10,7 @@
     "releases/1.0.x"
   ],
   "services": [
-    "travis",
-    "codecov",
-    "bettercode"
+    "travis"
   ],
   "artifacts": []
 }
