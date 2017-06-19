@@ -22,6 +22,10 @@
     },
     {
       "groupId": "info.novatec.testit",
+      "artifactId": "webtester-kotlin"
+    },
+    {
+      "groupId": "info.novatec.testit",
       "artifactId": "webtester-support-assertj3"
     },
     {
