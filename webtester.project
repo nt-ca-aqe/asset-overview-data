@@ -5,6 +5,7 @@
   "documentation": "https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=info.novatec.testit&a=webtester-documentation&v=LATEST&e=html",
   "branches": [
     "master",
+    "releases/2.3.x",
     "releases/2.2.x",
     "releases/2.1.x",
     "releases/2.0.x"
