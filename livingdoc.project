@@ -1,7 +1,7 @@
 {
   "name": "LivingDoc",
-  "organization": "testIT-LivingDoc",
-  "repository": "livingdoc2",
+  "organization": "LivingDoc",
+  "repository": "livingdoc",
   "branches": [
     "master"
   ],
