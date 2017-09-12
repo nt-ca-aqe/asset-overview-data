@@ -1,4 +1,5 @@
 {
+  "legacy": true,
   "name": "(Legacy) LivingDoc - IntelliJ Plugin",
   "organization": "testIT-LivingDoc",
   "repository": "livingdoc-intellij",
