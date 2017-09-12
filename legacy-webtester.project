@@ -1,4 +1,5 @@
 {
+  "legacy": true,
   "name": "(Legacy) WebTester",
   "organization": "testIT-WebTester",
   "repository": "webtester-core",
