@@ -1,4 +1,5 @@
 {
+  "legacy": true,
   "name": "(Legacy) LivingDoc",
   "organization": "testIT-LivingDoc",
   "repository": "livingdoc-core",
