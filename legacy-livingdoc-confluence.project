@@ -1,4 +1,5 @@
 {
+  "legacy": true,
   "name": "(Legacy) LivingDoc - Confluence Plugin",
   "organization": "testIT-LivingDoc",
   "repository": "livingdoc-confluence",
