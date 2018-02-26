@@ -1,0 +1,22 @@
+{
+  "name": "Pact Libraries",
+  "organization": "nt-ca-aqe",
+  "repository": "pact",
+  "documentation": null,
+  "branches": [
+    "master"
+  ],
+  "services": [
+    "travis"
+  ],
+  "artifacts": [
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "pact-provider"
+    },
+    {
+      "groupId": "info.novatec.testit",
+      "artifactId": "pact-provider-junit5"
+    }
+  ]
+}
